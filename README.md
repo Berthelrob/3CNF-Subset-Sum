@@ -1,2 +1,2 @@
 # Computing-theory
-Resolution of some problems in computing theory using JAVA language
+Resolution of the 3CNF to subset-sum problem, using the JAVA language.
